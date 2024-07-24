@@ -532,6 +532,7 @@
 .work-card__description {
 	text-transform: capitalize;
 	color: var(--clr-wrk-card-font);
+	font-size: 0.85rem;
 }
 
 /* footer */
